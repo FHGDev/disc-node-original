@@ -1,0 +1,16 @@
+{
+  "name": "disc-node",
+  "version": "0.0.4-alpha5",
+  "description": "Disnode is a new and lightweight wrapper for the Discord API!",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo Hi"
+  },
+  "author": "FHGDev",
+  "license": "MIT",
+  "keywords": ["discord", "api", "wrapper", "nodejs", "discord.js", "dis-node"],
+  "dependencies": {
+    "snekfetch": "^4.0.4",
+    "ws": "^6.1.2"
+  }
+}
